@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-megamenu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d portfolio-megamenu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://balkinol.github.io/portfolio-megamenu",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
